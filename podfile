@@ -1,0 +1,8 @@
+platform :ios, "8.0"
+
+target "星座" do
+
+pod 'AFNetworking'
+pod 'MJRefresh'
+
+end
